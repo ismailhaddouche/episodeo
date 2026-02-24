@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Episodeo</string>
+    <string name="privacy_policy_text">
+        Esta es nuestra política de privacidad. Aquí describimos cómo manejamos tus datos.
+        Nos tomamos tu privacidad muy en serio.
+        Tus datos no se compartirán con terceros sin tu consentimiento explícito.
+        Toda la información personal se almacena de forma segura y solo se utiliza para mejorar tu experiencia en la aplicación.
+        Puedes solicitar la eliminación de tus datos en cualquier momento.
+    </string>
+</resources>

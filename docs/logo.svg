@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Fondo circular suave (opcional, para coherencia de icono) -->
+    <rect width="512" height="512" rx="128" fill="#F8FAFC"/>
+    
+    <!-- Contorno del ojo -->
+    <path d="M64 256C64 256 160 96 256 96C352 96 448 256 448 256C448 256 352 416 256 416C160 416 64 256 64 256Z" 
+          stroke="#1E293B" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Iris (Círculo central) -->
+    <circle cx="256" cy="256" r="80" fill="#3B82F6"/>
+    
+    <!-- Símbolo de Play en el Iris -->
+    <path d="M244 220V292L300 256L244 220Z" fill="white"/>
+</svg>

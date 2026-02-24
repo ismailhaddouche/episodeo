@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <!-- Contorno del ojo -->
+  <path
+      android:pathData="M64,256C64,256 160,96 256,96C352,96 448,256 448,256C448,256 352,416 256,416C160,416 64,256 64,256Z"
+      android:strokeColor="#1E293B"
+      android:strokeWidth="32"
+      android:strokeLineCap="round"
+      android:strokeLineJoin="round"/>
+  <!-- Iris -->
+  <path
+      android:pathData="M256,256m-80,0a80,80 0,1 1,160 0a80,80 0,1 1,-160 0"
+      android:fillColor="#3B82F6"/>
+  <!-- Play -->
+  <path
+      android:pathData="M244,220L244,292L300,256L244,220Z"
+      android:fillColor="#FFFFFF"/>
+</vector>

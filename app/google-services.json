@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328958083793",
+    "project_id": "episodeo-9fab302f",
+    "storage_bucket": "episodeo-9fab302f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328958083793:android:ff78e6ab9ac5d6f62ffbf0",
+        "android_client_info": {
+          "package_name": "com.haddouche.episodeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328958083793-76esli0t8u3h98uo1u57he5k2emidhon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haddouche.episodeo",
+            "certificate_hash": "d929444e54f94c983d1fab47941147e574848be7"
+          }
+        },
+        {
+          "client_id": "328958083793-0998heq2v2u6n53vp127eq6h1r7m8t8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1GEjetWizBbIag2C_iNI-sWv0WMWh2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328958083793-0998heq2v2u6n53vp127eq6h1r7m8t8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
